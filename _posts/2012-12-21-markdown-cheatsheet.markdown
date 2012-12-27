@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post.html
 title: MarkDown语法速查
 ---
 
