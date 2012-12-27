@@ -1,10 +1,9 @@
 ---
 layout: default
-title: markdown cheet sheet--MarkDown语法速查
+title: MarkDown语法速查
 ---
-上面需要空格,不然github无法解析
-<h2>{{ page.title }}<h2>
 
+<h2>{{ page.title }}<h2>
 # Header 1 #
 ## Header 2 ##
 ### Header 3 ###             (Hashes on right are optional)
